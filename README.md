@@ -11,7 +11,7 @@
 ### 3. 시스템 구축
 ![Image](https://github.com/user-attachments/assets/aa366075-5ed0-4347-a9cd-374ae05f7c5c)
 ### 4. 흐름도
-
+![Image](https://github.com/user-attachments/assets/f03da337-a357-4625-afbd-0e5ad572bb83)
 
 ## 프로젝트 계획
 1. 주제 선정
