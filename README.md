@@ -21,7 +21,6 @@
 5. 테스트
 
 ## 프로젝트 선정 배경
-![Image](https://github.com/user-attachments/assets/0ef03dff-da93-4c14-bbdc-d7c2e9880a27)
 ![Image](https://github.com/user-attachments/assets/3f0bef1c-3b77-44c1-a9c7-d150133bfcb4)
 
 ● IT 개발자 비율 중 비전공자 비율이 46.7%로 높다.
