@@ -22,6 +22,8 @@
 
 ## 프로젝트 선정 배경
 ![Image](https://github.com/user-attachments/assets/0ef03dff-da93-4c14-bbdc-d7c2e9880a27)
+![Image](https://github.com/user-attachments/assets/3f0bef1c-3b77-44c1-a9c7-d150133bfcb4)
+
 ● IT 개발자 비율 중 비전공자 비율이 46.7%로 높다.
 
 ● 이동할 때 남는 시간을 줄이고, 노트북을 사용할 수 없는 환경에서 코딩 공부를 할 수 있게 하기 위해
