@@ -20,8 +20,6 @@
 4. 구현 및 연동
 5. 테스트
 
-6. ![Image](https://github.com/user-attachments/assets/ad5df5f8-0857-439f-b72c-c84352cff105)
-
 ## 프로젝트 선정 배경
 ![Image](https://github.com/user-attachments/assets/3f0bef1c-3b77-44c1-a9c7-d150133bfcb4)
 
