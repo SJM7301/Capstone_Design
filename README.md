@@ -9,7 +9,7 @@
 ### 2. 주요기능
 ![Image](https://github.com/user-attachments/assets/2c22df28-37fe-40f1-957b-7482814317fe)
 ### 3. 시스템 구축
-
+![Image](https://github.com/user-attachments/assets/aa366075-5ed0-4347-a9cd-374ae05f7c5c)
 ### 4. 흐름도
 
 
