@@ -5,6 +5,13 @@
 
 제작인원: 석재민, 이민성, 이형권
 
+## 프로젝트 계획
+1. 주제 선정
+2. 필요한 데이터 수집
+3. 기획 및 설계
+4. 구현 및 연동
+5. 테스트
+
 ## 프로젝트
 ### 1. 서비스 소개
 워킹 코딩 앱은 C언어를 학습하고, 코딩 테스트하는 앱입니다. 언제 어디서나 휴대폰으로 간단하게 학습할 수 있습니다.
@@ -15,13 +22,6 @@
 ![Image](https://github.com/user-attachments/assets/aa366075-5ed0-4347-a9cd-374ae05f7c5c)
 ### 4. 흐름도
 ![Image](https://github.com/user-attachments/assets/f03da337-a357-4625-afbd-0e5ad572bb83)
-
-## 프로젝트 계획
-1. 주제 선정
-2. 필요한 데이터 수집
-3. 기획 및 설계
-4. 구현 및 연동
-5. 테스트
 
 ## 프로젝트 선정 배경
 ![Image](https://github.com/user-attachments/assets/3f0bef1c-3b77-44c1-a9c7-d150133bfcb4)
