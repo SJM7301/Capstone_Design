@@ -34,6 +34,7 @@
 
 ## 시스템 구축
 ![Image](https://github.com/user-attachments/assets/5eef71ed-9587-4db9-b21b-0e0c5acca03a)
+
 사용자가 문제를 등록하면 Firebase에 문제의 정보를 저장할 것이다. 저장된 정보를 앱에서 실시간으로 보여 주어 문제를 볼 수 있도록 했다.
 
 ### 개발 언어와 프레임워크
