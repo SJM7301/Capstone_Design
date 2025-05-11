@@ -49,7 +49,7 @@ Dart는 모든 플랫폼에서 빠른 앱을 개발하기 위해 클라이언트
 
 ## 기능 명세
 ### 일반 공통 기능
-1. 공부 / 시험 / 문제 / 메모
+공부 / 시험 / 문제 / 메모
 
 ### 공부
 ![Image](https://github.com/user-attachments/assets/bec7e5ad-9fac-441a-8eac-226d61ba83ce)
