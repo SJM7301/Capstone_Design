@@ -44,6 +44,7 @@ Dart는 모든 플랫폼에서 빠른 앱을 개발하기 위해 클라이언트
 
 ### Firebase
 ![Image](https://github.com/user-attachments/assets/a60572ad-3fe3-4a11-94b6-2c01f40d906e)
+
 학습, 시험, 문제 정보 등을 저장하기 위한 데이터베이스로 활용할 것이다. 또한, NoSQL 문서 중심의 데이터베이스로 SQL 데이터베이스와 달리 테이블이나 행이 없으며, 컬렉션으로 정리되는 document에 데이터를 저장한다.
 
 ## 기능 명세
